@@ -1,1 +1,6 @@
-HELLO new
+hello!
+helo2;
+insert bye;
+;
+hello!;
+HELLO new;
