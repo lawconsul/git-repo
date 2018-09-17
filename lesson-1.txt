@@ -1,8 +1,1 @@
-<<<<<<< HEAD
-hello!
-helo2
-insert bye
-
-=======
-hello!
->>>>>>> origin/master
+HELLO new
